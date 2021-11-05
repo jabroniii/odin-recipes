@@ -1,2 +1,3 @@
 # odin-recipes
-Recipes
+Recipes for days, baby
+Hello jabroni
